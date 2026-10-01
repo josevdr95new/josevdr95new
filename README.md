@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/josevdr95new?tab=repositories"><img src="https://img.shields.io/badge/repos-51-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="51 repos públicos" /></a>
   <a href="https://github.com/josevdr95new"><img src="https://img.shields.io/github/followers/josevdr95new?style=for-the-badge&color=EC4899&label=followers&logo=github" alt="Followers en GitHub" /></a>
-  <a href="https://josevdr95.cubava.cu"><img src="https://img.shields.io/badge/Hecho_en-Cuba-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hecho en Cuba" /></a>
+  <img src="https://img.shields.io/badge/Hecho_en-Cuba-F97316?style=for-the-badge" alt="Hecho en Cuba" />
   <img src="https://img.shields.io/badge/en_el_escenario_desde-2022-A855F7?style=for-the-badge" alt="En GitHub desde 2022" />
 </div>
 
@@ -88,7 +88,6 @@ Los que más riff han sonado:
 
 <div align="center">
   <a href="https://github.com/josevdr95new"><img src="https://img.shields.io/badge/GitHub-%40josevdr95new-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: josevdr95new" /></a>
-  <a href="https://josevdr95.cubava.cu"><img src="https://img.shields.io/badge/Blog-josevdr95.cubava.cu-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog: josevdr95.cubava.cu" /></a>
   <a href="mailto:josevdr95@gmail.com"><img src="https://img.shields.io/badge/Gmail-josevdr95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: josevdr95@gmail.com" /></a>
 </div>
 
