@@ -89,6 +89,7 @@ Los que más riff han sonado:
 <div align="center">
   <a href="https://github.com/josevdr95new"><img src="https://img.shields.io/badge/GitHub-%40josevdr95new-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: josevdr95new" /></a>
   <a href="https://josevdr95.cubava.cu"><img src="https://img.shields.io/badge/Blog-josevdr95.cubava.cu-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog: josevdr95.cubava.cu" /></a>
+  <a href="mailto:josevdr95@gmail.com"><img src="https://img.shields.io/badge/Gmail-josevdr95%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: josevdr95@gmail.com" /></a>
 </div>
 
 ---
