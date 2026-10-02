@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:0EA5E9&height=180&section=header&text=JOSEVDR95&fontSize=68&fontColor=ffffff&desc=Desarrollador%20de%20Software%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20Cuba&descSize=16&descAlignY=61" alt="JOSEVDR95 — Desarrollador de Software · Automatización · Cuba" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2563EB,100:0EA5E9&height=210&section=header&text=JOSEVDR95&fontSize=62&fontColor=ffffff&desc=Desarrollador%20de%20Software%20%C2%B7%20Automatizaci%C3%B3n%20%C2%B7%20Cuba&descSize=15&descAlignY=72" alt="JOSEVDR95 — Desarrollador de Software · Automatización · Cuba" width="100%" />
 </div>
 
 <div align="center">
