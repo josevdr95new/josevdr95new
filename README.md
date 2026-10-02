@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=720&height=50&lines=Desarrollo%20de%20software%20con%20recursos%20reales;Automatizaci%C3%B3n%20de%20procesos%20y%20herramientas;De%20scripts%20de%20Windows%20a%20apps%20Android;Python%20%C2%B7%20JavaScript%20%C2%B7%20PowerShell%20%C2%B7%20Kotlin" alt="Desarrollo de software · Automatización · Apps Android" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=720&height=50&lines=Desarrollo%20de%20software%20con%20recursos%20reales;Automatizaci%C3%B3n%20de%20procesos%20y%20herramientas;De%20scripts%20de%20Windows%20a%20apps%20Android;Full-stack%3A%20Next.js%20%C2%B7%20Express%20%C2%B7%20PostgreSQL%20%C2%B7%20Prisma;Python%20%C2%B7%20JavaScript%20%C2%B7%20PowerShell%20%C2%B7%20Kotlin" alt="Desarrollo de software · Automatización · Apps Android · Full-stack: Next.js, Express, PostgreSQL, Prisma · Python, JavaScript, PowerShell, Kotlin" />
 </div>
 
 <div align="center">
@@ -23,12 +23,13 @@
 
 Soy **Josevdr95**, desarrollador de software en Cuba. Comencé creando utilidades para Windows con VisualNeo Win — funciones, componentes de interfaz y herramientas de escritorio — y hoy desarrollo aplicaciones Android compilando APKs con HTML, JavaScript y CSS sobre Capacitor, mediante el ecosistema **AppForge**, que incluye una plantilla de proyecto lista para producción y un plugin para la tienda Apklis.
 
-Mi enfoque está en construir herramientas que resuelven problemas reales con los recursos disponibles: proxies que funcionan en condiciones de red limitadas, consulta de tasas de cambio del BCC, bots de conversión y automatización de tareas repetitivas. También exploro el campo de los agentes de IA: [agent-browser-py](https://github.com/josevdr95new/agent-browser-py) automatiza un navegador apoyándose en modelos de visión artificial.
+Mi enfoque está en construir herramientas que resuelven problemas reales con los recursos disponibles: proxies que funcionan en condiciones de red limitadas, consulta de tasas de cambio del BCC, bots de conversión y automatización de tareas repetitivas. También exploro el campo de los agentes de IA: [agent-browser-py](https://github.com/josevdr95new/agent-browser-py) automatiza un navegador apoyándose en modelos de visión artificial. Además, me especializo en desarrollo web moderno con **Next.js**, **Express**, **PostgreSQL** y **Prisma**, cubriendo APIs REST, autenticación, ORMs y bases de datos relacionales.
 
 ---
 
 ## Áreas de trabajo
 
+- **Desarrollo web full-stack** — Especialización en el ecosistema JavaScript/TypeScript moderno: Next.js, Express, Node.js, PostgreSQL con Prisma, React y Tailwind CSS → [GestionNegocio](https://github.com/josevdr95new/GestionNegocio), proyecto de gestión de negocio
 - **Sunflower Land** — Herramientas para el juego: precios del mercado P2P, cálculo de beneficios, bots de conversión y un widget para iOS → [SFL-PricesP2P](https://github.com/josevdr95new/SFL-PricesP2P) · [sfl-profit-calc](https://github.com/josevdr95new/sfl-profit-calc) · [SFLConversionBot](https://github.com/josevdr95new/SFLConversionBot) · [sunflowerland-skill](https://github.com/josevdr95new/sunflowerland-skill)
 - **PokeMMO y Yu-Gi-Oh!** — Tier lists, APIs de tiers, conversores de decks `.ydk`, biblioteca de skins para EDOPro y rankings web → [PokeMMOTierList](https://github.com/josevdr95new/PokeMMOTierList) · [pokemmotiers-api](https://github.com/josevdr95new/pokemmotiers-api) · [YDKConversor](https://github.com/josevdr95new/YDKConversor) · [EDOPro-SkinLibrary](https://github.com/josevdr95new/EDOPro-SkinLibrary) · [evolutionygo-web-ranking](https://github.com/josevdr95new/evolutionygo-web-ranking)
 - **Android con HTML y Capacitor** — Ecosistema **AppForge**: creación de APKs con HTML/JS/CSS vanilla, plantilla de proyecto y plugin para la tienda Apklis → [AppForge](https://github.com/josevdr95new/AppForge) · [appforge-template](https://github.com/josevdr95new/appforge-template) · [html2apk](https://github.com/josevdr95new/html2apk) · [capacitor-plugin-apklis](https://github.com/josevdr95new/capacitor-plugin-apklis)
@@ -59,10 +60,10 @@ Mi enfoque está en construir herramientas que resuelven problemas reales con lo
 ## Stack tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,ps,bash,kotlin,html,css,git,github,vscode&theme=dark" alt="Python, JavaScript, TypeScript, PowerShell, Bash, Kotlin, HTML, CSS, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,nodejs,express,postgres,prisma,tailwind,kotlin,html,css,ps,bash,git,github,vscode&perline=9&theme=dark" alt="Python, JavaScript, TypeScript, Next.js, React, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS, Kotlin, HTML, CSS, PowerShell, Bash, Git, GitHub, VS Code" />
 </div>
 
-**Python** como lenguaje principal · **Kotlin** para plugins nativos de Capacitor · **PowerShell y Batch** para automatización en Windows · **HTML/CSS/JS** como base de las aplicaciones.
+**Next.js y Express** en backend y frontend · **PostgreSQL con Prisma** como base de datos · **React y Tailwind** en la interfaz · **Python** como lenguaje principal · **Kotlin** para plugins nativos de Capacitor · **PowerShell y Batch** para automatización en Windows · **HTML/CSS/JS** como base de las aplicaciones.
 
 ---
 
